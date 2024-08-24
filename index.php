@@ -15,7 +15,7 @@
             text-align: center;
         }
         form {
-            background-color: #f4f4f4;
+            background-color: #ADD8E6;
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0px 0px 10px 0px #0000001a;
@@ -28,7 +28,7 @@
             border: 1px solid #ccc;
         }
         button {
-            background-color: #4CAF50;
+            background-color: #000ff0;
             color: white;
             border: none;
         }
@@ -87,7 +87,7 @@
         }
     }
     ?>
-
+<br><br>
     <h2>Tabela de Avaliação do IMC</h2>
     <table>
         <tr>
